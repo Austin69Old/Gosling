@@ -25,7 +25,7 @@ function myTimer(seconds) {
     }, 1000)
 }
 
-myTimer(30)
+myTimer(10)
 
 
 
