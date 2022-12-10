@@ -3,7 +3,7 @@
 
 
 function myTimer(seconds) {
-    let time = secondsgit 
+    let time = seconds
     let header = document.querySelector('h2')
     const countDownEl = document.getElementById('countdown');
 
